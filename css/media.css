@@ -1,0 +1,36 @@
+@media(max-width:767px){
+    .feature_img{
+        text-align: center;
+    
+    width: 100%;
+}
+
+.img_contant{
+    width: 100%;
+    text-align: center;
+   
+    
+}
+.screen_contant{
+    margin-top: 30px;
+    text-align: center;
+}
+    .screen_img{
+        text-align: center;
+    }
+}
+
+@media(min-width:768px) and (max-width:991px){
+   
+    
+}
+
+@media(min-width:992px) and (max-width:1199px){
+   
+    
+    
+}
+@media(max-width:1200px){
+    
+    
+}

@@ -1,0 +1,219 @@
+header{
+    min-height: 960px;
+    background-image: url(../images/Top-bacround-img.png);
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+}
+
+.logo{
+    padding-top: 15px;
+}
+
+.logo h4{
+    font-size: 24pt;
+    font-weight: bold;
+    color:    white;
+}
+
+.navbar_custom{
+    border: none;
+    background-color: transparent;
+    padding-top: 15px;
+}
+
+.navbar_custom .navbar-nav>li>a{
+    color: white;
+    font-size: 11pt;
+    text-transform: uppercase;
+}
+
+.navbar_custom .navbar-nav>li{
+    
+}
+
+.social_icon{
+    padding-top:25px;
+}
+
+.social_icon i{
+    padding: 0px 20px;
+    font-size: 25px;
+    color: white;
+}
+
+.contant_header{
+    margin-top: 245px;
+}
+
+.contant_header h1{
+    font-size: 38pt;  
+    color: white;
+}
+
+.contant_header p{
+    font-size: 14pt;
+    color: white;
+    
+}
+
+.dl{
+    min-height: 40px;
+    border: none;
+    background-color: #FC6A42;
+    color: white;
+    width: 30%;
+    margin-top: 20px;
+    border-radius:;
+}
+
+.ft{
+   min-height: 40px;
+    border: none;
+    background-color: #4466C9;
+    color: white;
+    width: 30%;
+    margin-top: 20px;
+    border-radius:;
+}
+
+.mobile_header{
+    margin-top: 145px;
+}
+
+#perfect_feature{
+    margin-top: 130px;
+    min-height: 500px
+}
+
+.feature_contant h2{
+    color: #648CFF;
+    text-transform: uppercase;
+}
+.feature_contant p{
+    color: #C4C4C4;
+}
+
+.feature_div{
+    margin-top: 130px;
+}
+.feature_img{
+    float: left;
+    width: 25%;
+    
+}
+
+.img_contant{
+    width: 75%;
+    float: right;
+    
+    
+}
+
+#simple_wed{
+    margin-top: 100px;
+    min-height: 900px;
+}
+
+.slider_img{
+    margin-top: 50px;
+}
+
+.screen_div{
+    margin-top: 80px;
+}
+.screen_contant h2{
+    color: #82A2FF;
+}
+.screen_contant p{
+   color:#AEAEB8; 
+}
+.screen_contant{
+    margin-top: 70px;
+}
+
+
+#Peope_say{
+    margin-top: 70px;
+    min-height: 750px;
+}
+
+.comment_div{
+    margin-top: 50px;
+}
+
+.comment p{
+    margin-top: 40px;
+    font-size: 16pt;
+}
+.comment span{
+    margin-top: 10px;
+    
+}
+.comment_div_top{
+    margin-top: 40px;
+}
+
+#download_app{
+    min-height: 400px;
+    background-color: #648CFF;
+    
+}
+.download_contant{
+    margin-top: 130px;
+}
+
+.download_contant h2{
+    color: white;
+}
+.download_contant p{
+    color: white;
+}
+
+.download_contant img{
+    margin-top: 30px;
+}
+.download_img{
+    margin-top: 92px;
+}
+
+footer{
+    background-color: #353854;
+    min-height: 362px;
+}
+
+.footer_div{
+    margin-top: 150px;
+    
+}
+.footer_logo{
+    margin-top: 10px;
+    
+}
+.footer_navbar_custom{
+    border: none;
+    background-color: transparent;
+    
+}
+.footer_navbar_custom .navbar-nav>li>a{
+    color: white;
+    font-size: 14pt;
+}
+.footer_social_icon{
+    margin-top: 10px;
+    
+}
+.footer_social_icon i{
+    padding: 0px 20px;
+    font-size: 25px;
+    color: white;
+}
+.copy_info{
+    margin-top: 50px;
+    
+    
+}
+
+.copy_info p{
+     color: #45496C;   
+}
